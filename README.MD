@@ -88,7 +88,7 @@ Setelah itu, terminal akan kembali ke kondisi normal.
 1. **Clone Repository Ini**
 
    ```sh
-   git clone https://github.com/username/repository-name.git
+   https://github.com/autadaweb/bf-python-croomium.git
    cd repository-name
    ```
 
